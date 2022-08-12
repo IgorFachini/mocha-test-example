@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "mocha": "mocha ./test --recursive --exit"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "mocha": "^10.0.0",
+    "should": "^13.2.3"
+  },
+  "name": "mocha-test",
+  "version": "1.0.0",
+  "license": "MIT"
+}
